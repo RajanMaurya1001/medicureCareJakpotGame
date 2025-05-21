@@ -4,9 +4,9 @@ const finalValue = document.getElementById("final-value");
 
 // Object that stores values of minimum and maximum angle for a value
 const rotationValues = [
-    { minDegree: 0, maxDegree: 30, value: 'Blue' },
+    { minDegree: 0, maxDegree: 30, value: 'Pink' },
     { minDegree: 31, maxDegree: 90, value: 'Red' },
-    { minDegree: 91, maxDegree: 150, value: 'Yellow' },
+    { minDegree: 91, maxDegree: 150, value: 'Black' },
     { minDegree: 151, maxDegree: 210, value: 'Orange' },
     { minDegree: 211, maxDegree: 270, value: 'Purple' },
     { minDegree: 271, maxDegree: 330, value: 'Green' },
